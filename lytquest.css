@@ -711,6 +711,10 @@ footer {
     min-height: 90vh;
     padding-top: 100px;
   }
+  
+  .stats-card{
+    height: 100%;
+  }
 
   .mom h1 {
     font-size: 40px;
