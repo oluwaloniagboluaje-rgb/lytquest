@@ -319,7 +319,7 @@ body {
   font-size: 48px;
 }
 
-.lead {
+.dad1 {
   font-family: 'Ubuntu', sans-serif;
   font-size: 18px;
   color: white !important;
@@ -334,6 +334,7 @@ body {
 .client {
   color: #081e45;
   font-family: 'Ubuntu', sans-serif;
+  font-size: 48px;
 }
 
 .lead {
