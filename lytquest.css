@@ -812,9 +812,9 @@ footer {
       padding: 10px 0;
     }
 
+
     .get2 {
-      background-color: #00bcd4;
-      color: white;
+      background-color: rgb(54, 44, 44) !important;
       border-radius: 25px;
       transition: 0.3s ease;
     }
