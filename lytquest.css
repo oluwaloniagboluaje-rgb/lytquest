@@ -373,7 +373,8 @@ body {
   font-family: 'Ubuntu', sans-serif;
   font-weight: 400;
 }
-.muri{
+
+.muri {
   color: #29c6f1 !important;
 }
 
@@ -812,13 +813,10 @@ footer {
     }
 
     .get2 {
-      color: #fff !important;
+      background-color: #00bcd4;
+      color: white;
       border-radius: 25px;
       transition: 0.3s ease;
-    }
-
-    .get2:hover {
-      background-color: #fff !important;
     }
 
     .mom h1 {
